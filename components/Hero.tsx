@@ -52,7 +52,7 @@ const Hero: React.FC = () => {
                                    <GitHubIcon />
                                    <span>GitHub</span>
                                </a>
-                                <a href="https://ranganathas-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 text-gray-600 dark:text-light-secondary hover:text-primary transition-colors duration-300">
+                                <a href="https://port-folio-nine-pearl.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2 text-gray-600 dark:text-light-secondary hover:text-primary transition-colors duration-300">
                                    <PortfolioIcon />
                                    <span>Portfolio</span>
                                </a>
@@ -61,7 +61,7 @@ const Hero: React.FC = () => {
 
                         <div className="flex flex-col sm:flex-row justify-center md:justify-start gap-4">
                             <motion.a 
-                                href="#resume"
+                                href="https://ik.imagekit.io/j0lk2gkfp/RANGANATHA_S.pdf"
                                 onClick={(e) => handleSmoothScroll(e, '#resume')}
                                 className="bg-primary text-white font-semibold py-3 px-8 rounded-lg transition-all duration-300 hover:bg-primary-hover hover:shadow-lg hover:shadow-primary/40" 
                                 whileHover={{ scale: 1.05 }} 
@@ -70,11 +70,12 @@ const Hero: React.FC = () => {
                                 View Resume
                             </motion.a>
                             <motion.a 
-                                href="#contact" 
+                                href="https://wa.me/919019368681?text=Hello%2C%20I%20want%20to%20connect!" 
                                 onClick={(e) => handleSmoothScroll(e, '#contact')}
                                 className="bg-gray-200 dark:bg-dark-secondary text-dark dark:text-white font-semibold py-3 px-8 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-700 transition-colors duration-300" 
                                 whileHover={{ scale: 1.05 }} 
                                 whileTap={{ scale: 0.95 }}
+                                target="_blank"
                             >
                                 Contact Me
                             </motion.a>
@@ -82,7 +83,7 @@ const Hero: React.FC = () => {
                     </motion.div>
                     <motion.div className="md:w-1/3" variants={itemVariants}>
                         <img 
-                            src="https://image2url.com/images/1757750962461-114775c3-cc7f-4618-b825-6335fcc84d0e.jpg"
+                            src="https://ik.imagekit.io/j0lk2gkfp/RANGANATHAS-PROFILE-IMG.jpg"
                             alt="Profile photo of Ranganatha S" 
                             className="rounded-full border-4 border-primary shadow-lg object-cover w-64 h-64 md:w-96 md:h-96"
                             width="384"

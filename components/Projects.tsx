@@ -15,8 +15,8 @@ const projects = [
             "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&dpr=1",
             "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&dpr=1"
         ],
-        githubUrl: "#",
-        link: "#"
+        githubUrl: "https://duville.com/",
+        link: "https://duville.com/"
     },
     {
         title: "E-Commerce Web Application",
@@ -29,7 +29,7 @@ const projects = [
             "https://images.pexels.com/photos/1050244/pexels-photo-1050244.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&dpr=1"
         ],
         githubUrl: "https://github.com/Ranganatha-codingaddict/E-Commerce-WebApp",
-        link: "#"
+        link: "https://e-commerce-frontend-rho-three.vercel.app/"
     },
     {
         title: "AI-Powered Freelancing and Skill Enhancement",
@@ -42,7 +42,7 @@ const projects = [
             "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&dpr=1"
         ],
         githubUrl: "https://github.com/Ranganatha-codingaddict/Ai-Powered-Freelancer-Platform.git",
-        link: "Link"
+        link: "https://ai-powered-freelancer-platform.vercel.app/"
     },
     {
         title: "E-Notes: A Spring Boot-Based Digital Notebook",
@@ -55,7 +55,7 @@ const projects = [
             "https://images.pexels.com/photos/760710/pexels-photo-760710.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&dpr=1"
         ],
         githubUrl: "https://github.com/Ranganatha-codingaddict/Enotes-Spring-Boot-Project.git",
-        link: "Link"
+        link: "https://github.com/Ranganatha-codingaddict/Enotes-Spring-Boot-Project.git"
     },
     {
         title: "Gemini AI Chatbot",
@@ -68,7 +68,7 @@ const projects = [
             "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=800&h=450&dpr=1"
         ],
         githubUrl: "https://github.com/Ranganatha-codingaddict/Gemini-ChatBot.git",
-        link: "#"
+        link: "https://github.com/Ranganatha-codingaddict/Gemini-ChatBot.git"
     },
     {
         title: "CreatiFlow – AI-Powered Productivity Platform",

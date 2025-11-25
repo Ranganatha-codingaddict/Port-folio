@@ -17,7 +17,7 @@ const navLinks = [
 const socialLinks = [
     { name: 'LinkedIn', url: 'https://linkedin.com/in/ranganathas9696', icon: <LinkedInIcon /> },
     { name: 'GitHub', url: 'https://github.com/Ranganatha-codingaddict', icon: <GitHubIcon /> },
-    { name: 'Portfolio', url: 'https://ranganathas-portfolio.netlify.app/', icon: <PortfolioIcon /> },
+    { name: 'Portfolio', url: 'https://port-folio-nine-pearl.vercel.app/', icon: <PortfolioIcon /> },
 ];
 
 

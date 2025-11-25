@@ -55,7 +55,7 @@ const About: React.FC = () => {
                                     </ul>
                                 </div>
                                  <motion.a 
-                                    href="https://pdf.ac/Xap7YurO2" 
+                                    href="https://ik.imagekit.io/j0lk2gkfp/RANGANATHA_S.pdf" 
                                     target="_blank" 
                                     rel="noopener noreferrer"
                                     className="bg-primary self-center text-white font-semibold py-3 px-8 rounded-lg transition-all duration-300 hover:bg-primary-hover hover:shadow-lg hover:shadow-primary/40" 

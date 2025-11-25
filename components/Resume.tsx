@@ -2,7 +2,7 @@
 import React from 'react';
 import { motion, Variants } from 'framer-motion';
 
-const RESUME_URL = 'https://pdf.ac/Xap7YurO2';
+const RESUME_URL = 'https://ik.imagekit.io/j0lk2gkfp/RANGANATHA_S.pdf';
 
 const resumeData = {
     objective: "Passionate Full Stack Developer with hands-on experience in Java, Spring Boot, ReactJS, SQL, and REST APIs. Skilled in developing microservices, integrating AI models, and building real-time data pipelines. Strong foundation in Data Structures & Algorithms (DSA), OOPs, and System design, with practical exposure to Git, Docker, and Postman. Eager to leverage technical expertise to build scalable, intelligent, and high-performance applications.",
@@ -54,8 +54,8 @@ const resumeData = {
     projects: [
         {
             title: "E-Notes: A Spring Boot-Based Digital Notebook, SJMIT",
-            link: "#",
-            duration: "",
+            link: "https://github.com/Ranganatha-codingaddict/Enotes-Spring-Boot-Project.git",
+            duration: "Jan 2024 — May 2024",
             points: [
                 "Built a secure note-taking app using Spring Boot, MySQL and Spring Security.",
                 "Integrated AI summarisation and speech-to-text (future-ready features).",
@@ -64,8 +64,8 @@ const resumeData = {
         },
         {
             title: "AI-Powered Freelancing and Skill Enhancement, SJMIT",
-            link: "#",
-            duration: "",
+            link: "https://ai-powered-freelancer-platform.vercel.app/",
+            duration: "Dec 2024 — May 2025",
             points: [
                 "Developed a full-stack app using Spring Boot, ReactJS and SQL.",
                 "Implemented AI job matching, resume analysis and skill recommendations.",
@@ -75,8 +75,8 @@ const resumeData = {
         },
         {
             title: "Duville Website, Triloke",
-            link: "#",
-            duration: "",
+            link: "https://duville.com/",
+            duration: "Sep 2025 — Present",
             points: [
                 "Developed and optimised a real estate client website using Next.js and React.js, improving SEO and performance.",
                 "Implemented Chatbot AI integration using a third-party AI API for real-time user interaction and query handling.",
@@ -86,8 +86,8 @@ const resumeData = {
         },
         {
             title: "E-Commerce Web Application",
-            link: "#",
-            duration: "",
+            link: "https://e-commerce-frontend-rho-three.vercel.app/",
+            duration: "Oct 2025 — Present",
             points: [
                 "Built a scalable full-stack e-commerce web app using React (Vite) for the frontend and Spring Boot.",
                 "Implemented JWT-based authentication, role-based access (Admin/User), and full CRUD operations.",

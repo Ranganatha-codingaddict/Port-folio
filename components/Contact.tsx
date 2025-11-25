@@ -28,7 +28,7 @@ const Contact: React.FC = () => {
     const socialLinks = [
         { name: 'LinkedIn', url: 'https://linkedin.com/in/ranganathas9696', icon: <LinkedInIcon /> },
         { name: 'GitHub', url: 'https://github.com/Ranganatha-codingaddict', icon: <GitHubIcon /> },
-        { name: 'Portfolio', url: 'https://ranganathas-portfolio.netlify.app/', icon: <PortfolioIcon /> },
+        { name: 'Portfolio', url: 'https://port-folio-nine-pearl.vercel.app/', icon: <PortfolioIcon /> },
         { name: 'Email', url: 'mailto:ranganathas9696@gmail.com', icon: <EmailIcon /> },
         { name: 'Phone', url: 'tel:+919019368681', icon: <PhoneIcon /> }
     ];
