@@ -3,14 +3,14 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const certifications = [
-    { name: "Java Spring Framework 6, Spring Boot 3, Spring AI", provider: "Udemy", url: "#" },
+    { name: "Java Spring Framework 6, Spring Boot 3, Spring AI", provider: "Udemy", url: "https://www.udemy.com/certificate/UC-bdfa3c0b-2310-4fc6-b1ff-f260eb5b09b8/" },
     { name: "Java (Basic) Advanced Skills Certification", provider: "HackerRank", url: "https://www.hackerrank.com/certificates/83de9f5869fa" },
-    { name: "Spring Boot 3, Spring 6, Hibernate", provider: "Udemy", url: "#" },
+    { name: "Spring Boot 3, Spring 6, Hibernate", provider: "Udemy", url: "https://pdflink.to/89b5b7e0/" },
     { name: "API Beginner Learning Path - Completion Certificate", provider: "Postman Academy", url: "https://verify.skilljar.com/c/2zy6kfsn52xz" },
-    { name: "Python & SQL", provider: "CoachED", url: "#" },
-    { name: "AI - Machine Learning Engineer", provider: "Rooman Technologies", url: "#" },
-    { name: "AI&ML Internship Certificate", provider: "Technologics Global Pvt Ltd..", url: "#" },
-    { name: "Advanced Software Engineering Job Simulation", provider: "Walmart Forage", url: "#" }
+    { name: "Python & SQL", provider: "CoachED", url: "https://pdflink.to/34dc6921/" },
+    { name: "AI - Machine Learning Engineer", provider: "Rooman Technologies", url: "https://pdf.ac/19ZSAV" },
+    { name: "AI&ML Internship Certificate", provider: "Technologics Global Pvt Ltd..", url: "https://pdflink.to/bd21381b/" },
+    { name: "Advanced Software Engineering Job Simulation", provider: "Walmart Forage", url: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_RFhNjmRJP3QdkaiYX_1752414812322_completion_certificate.pdf" }
 ];
 
 const Certifications: React.FC = () => {
